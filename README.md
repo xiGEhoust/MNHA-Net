@@ -1,6 +1,6 @@
 # MNHA-Net
 
-Official repository for the DFRWS APAC 2026 paper  *MNHA-Net: Mitigating Feature Dilution in Image Manipulation Localization via Hybrid Architecture and Late Noise Fusion*
+Official repository for the Information Security Conference (ISC) 2026 paper  *MNHA-Net: Mitigating Feature Dilution in Image Manipulation Localization via Hybrid Architecture and Late Noise Fusion*
 
 <img src="images\Fig. 2.PNG" style="zoom:80%;" />
 
